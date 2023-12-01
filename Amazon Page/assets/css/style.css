@@ -1,0 +1,109 @@
+/* Your styles here */
+
+body{text-align: center;
+}
+
+#holiday{
+    width: 1980px;
+    height: 720px;
+    background-size: cover;
+    width: auto;
+    height: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: solid black 4px;
+    margin-bottom: 40px;
+
+
+}
+header{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(/assets/images/logo.png);
+    background-color: #222f3e;
+    color: #eaeded;
+    width:auto;
+    height: auto;
+    resize: initial;
+    box-sizing: content-box;
+    padding-bottom: 25px;
+    
+    
+
+}
+nav li{
+    
+text-align: start;
+display: inline ;
+background-color: #364759;
+color: white;
+margin-left: 40px;
+margin-bottom: 40px;
+
+
+
+}
+
+#subtitle{
+    background-color: #f56600;
+    text-align: center;
+    height:40px;
+    margin-left: 40px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+
+.box{
+    border: solid black 4px;
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    text-align: center;
+    justify-content:space-around;
+    border-radius: 15px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    
+    
+    
+}
+/* non riesco a mettere le box in linea come vorrei */
+.contenitore{
+    border: solid black 4px;
+    width: 1980px;
+    height: 720px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.vr-headset{
+    border: solid black 4px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+#back{
+    background-color: #364759;
+    text-align: center;
+    height:40px;
+    margin-left: 40px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;}
+    
+    footer{
+        background-color: #222f3e;
+        color: #eaeded;
+        text-align: center;
+    }
